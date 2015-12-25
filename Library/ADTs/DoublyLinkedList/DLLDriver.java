@@ -11,9 +11,9 @@ public class DLLDriver {
 		dll.add(7);
 		dll.add(9);
 		dll.add(6);
+		dll.add(8);
+		dll.add(1);
+		dll.add(8);
 		dll.printAll();
-		
-		dll.slice(2, 9).printAll();
 	}
-
 }
