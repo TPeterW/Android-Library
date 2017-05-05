@@ -1,4 +1,4 @@
-package com.peter.security.encryption.symmetric;
+package com.tpwang.security.encryption.symmetric;
 
 /***
  * @author Tao Peter Wang
@@ -52,7 +52,7 @@ public class DES {
 	/***
 	 * DES Encode using JDK
 	 * @param secretMsg
-	 * @return encodedMsg
+	 * @return encoded message
 	 */
 	public String DESEncode(String secretMsg) {
 		String encodedMsg = null;
@@ -74,7 +74,7 @@ public class DES {
 	/***
 	 * DES Decode using JDK
 	 * @param encodedMsg
-	 * @return decodedMsg
+	 * @return decoded message
 	 */ 
 	public String DESDecode(String encodedMsg) {
 		String secretMsg = null;

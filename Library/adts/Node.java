@@ -1,4 +1,4 @@
-package com.peter.adts;
+package com.tpwang.adts;
 
 public class Node {
 	private int value;

@@ -1,4 +1,4 @@
-package com.peter.security.signature.dsa;
+package com.tpwang.security.signature.dsa;
 
 import java.security.KeyFactory;
 import java.security.PublicKey;

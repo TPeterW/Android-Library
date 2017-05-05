@@ -1,4 +1,4 @@
-package com.peter.maths;
+package com.tpwang.maths;
 
 import java.util.LinkedList;
 

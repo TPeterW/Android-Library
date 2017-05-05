@@ -1,4 +1,4 @@
-package com.peter.adts.ArrayList;
+package com.tpwang.adts.ArrayList;
 
 public class ArrayList {
 	

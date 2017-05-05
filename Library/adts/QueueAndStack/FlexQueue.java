@@ -1,4 +1,4 @@
-package com.peter.adts.QueueAndStack;
+package com.tpwang.adts.QueueAndStack;
 
 /***
  * Flexible Queue

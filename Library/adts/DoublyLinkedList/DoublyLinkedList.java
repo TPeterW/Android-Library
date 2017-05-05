@@ -1,4 +1,4 @@
-package com.peter.adts.DoublyLinkedList;
+package com.tpwang.adts.DoublyLinkedList;
 
 public class DoublyLinkedList {
 	private DLLNode head, tail;

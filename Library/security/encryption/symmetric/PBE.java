@@ -1,4 +1,4 @@
-package com.peter.security.encryption.symmetric;
+package com.tpwang.security.encryption.symmetric;
 
 /***
  * @author Tao Peter Wang

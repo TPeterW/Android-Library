@@ -1,4 +1,4 @@
-package com.peter.adts.BinarySearchTree;
+package com.tpwang.adts.BinarySearchTree;
 
 import java.util.*;
 

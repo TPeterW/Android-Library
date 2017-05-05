@@ -1,4 +1,4 @@
-package com.peter.security.encryption.asymmetric.elgamal;
+package com.tpwang.security.encryption.asymmetric.elgamal;
 
 /***
  * @author Tao Peter Wang

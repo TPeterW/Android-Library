@@ -1,6 +1,6 @@
-package com.peter.adts.DoublyLinkedList;
+package com.tpwang.adts.DoublyLinkedList;
 
-import com.peter.adts.Node;
+import com.tpwang.adts.Node;
 
 public class DLLNode extends Node {
 	private DLLNode previous, next;

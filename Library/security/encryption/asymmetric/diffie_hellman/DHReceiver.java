@@ -1,4 +1,4 @@
-package com.peter.security.encryption.asymmetric.diffie_hellman;
+package com.tpwang.security.encryption.asymmetric.diffie_hellman;
 
 /***
  * @author Tao Peter Wang

@@ -1,6 +1,6 @@
-package com.peter.adts.QueueAndStack;
+package com.tpwang.adts.QueueAndStack;
 
-import com.peter.adts.Node;
+import com.tpwang.adts.Node;
 
 public class QSNode extends Node {
 	private QSNode previous, next;

@@ -1,6 +1,4 @@
-package com.peter.adts.QueueAndStack;
-
-import org.eclipse.jdt.annotation.*;
+package com.tpwang.adts.QueueAndStack;
 
 /***
  * Flexible Stack
@@ -107,7 +105,7 @@ public class FlexStack {
 	 * @param depth
 	 * @return Integer
 	 */
-	public @Nullable Integer getValueByDepth(int depth) {
+	public Integer getValueByDepth(int depth) {
 		if (depth >= size || depth < 0)
 			return null;
 		

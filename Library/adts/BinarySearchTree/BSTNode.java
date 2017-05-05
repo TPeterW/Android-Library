@@ -1,6 +1,6 @@
-package com.peter.adts.BinarySearchTree;
+package com.tpwang.adts.BinarySearchTree;
 
-import com.peter.adts.Node;
+import com.tpwang.adts.Node;
 
 public class BSTNode extends Node {
 	private BSTNode parent, leftChild, rightChild;
