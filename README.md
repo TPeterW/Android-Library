@@ -1,2 +1,2 @@
-# Java-Library
-My own Java library, could be handy.
+# Android-Library
+My own Android library, could be handy.
